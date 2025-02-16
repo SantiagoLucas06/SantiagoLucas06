@@ -1,5 +1,5 @@
 # Lucas Santiago
-Olá meu nome é Lucas Santiago, tenho 27 anos, sou pernambucano, atualmente moro no RJ. Meu hobbie é ler livros sobre tecnologia, viajar com minha amada esposa e games no computador. Por aqui você irá acompanhar meus projetos particulares e de estudos, fique avontade para navegar no meu perfil, um grande abraço.
+Olá meu nome é Lucas Santiago, tenho 28 anos, sou pernambucano, atualmente moro no RJ. Meu hobbie é ler livros sobre tecnologia, viajar com minha amada esposa e games no computador. Por aqui você irá acompanhar meus projetos particulares e de estudos, fique avontade para navegar no meu perfil, um grande abraço.
 
 ## Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santiagodev/)
